@@ -1,4 +1,4 @@
-![Cover](assets/cover.png)
+![Cover](ManyBodyLocalization-Lab%20cover.png)
 
 # ManyBodyLocalization-Lab 🧲⚛️
 
